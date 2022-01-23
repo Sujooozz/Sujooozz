@@ -1,0 +1,4 @@
+Date,ConnType,Lat,Lon,Download Speed,Download Size,Upload Speed,Upload Size,Latency,Server,InternalIp,ExternalIp,URL
+"01/14/2022, 10:59 PM",Wifi,24.4638,54.363,1.088432,1251360,1.664568,1875395,119,Dubai,192.168.1.42,217.164.243.28,https://www.speedtest.net/my-result/a/8059002474
+"01/14/2022, 11:00 PM",Wifi,24.4638,54.363,1.172048,1518213,0.119328,109568,82,Dubai,192.168.1.42,217.164.243.28,https://www.speedtest.net/my-result/a/-1
+"01/15/2022, 1:13 PM",Wifi,24.3682686,54.7402573,1.091408,1350720,1.347032,686080,13,Dubai,192.168.1.42,217.164.243.28,https://www.speedtest.net/my-result/a/-1
